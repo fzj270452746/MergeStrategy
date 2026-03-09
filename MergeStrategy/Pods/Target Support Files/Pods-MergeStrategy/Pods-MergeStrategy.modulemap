@@ -1,0 +1,6 @@
+framework module Pods_MergeStrategy {
+  umbrella header "Pods-MergeStrategy-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MergeStrategy/Pods-MergeStrategy-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Adjust/AdjustSdk.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/AdjustSignature/AdjustSigSdk.framework/AdjustSigSdk

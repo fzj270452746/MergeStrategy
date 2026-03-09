@@ -1,0 +1,30 @@
+PODS:
+  - Adjust (5.4.1):
+    - Adjust/Adjust (= 5.4.1)
+  - Adjust/Adjust (5.4.1):
+    - AdjustSignature (= 3.47.0)
+  - AdjustSignature (3.47.0)
+  - Alamofire (5.10.2)
+  - Nuke (10.7.1)
+
+DEPENDENCIES:
+  - Adjust
+  - Alamofire
+  - Nuke
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - AdjustSignature
+    - Alamofire
+    - Nuke
+
+SPEC CHECKSUMS:
+  Adjust: 1ff981e84ae1306f8cce30e0661b3997dad1b85c
+  AdjustSignature: d634fc6b66295c38807f3b4e50978c1f72355950
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+
+PODFILE CHECKSUM: c8c10f38650b69f43c8566020ddf349986bb1d7d
+
+COCOAPODS: 1.16.2
