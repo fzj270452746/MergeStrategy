@@ -10,7 +10,7 @@
 		</data>
 		<key>Modules/FoemDisno.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		7Uqv9fiM6I3kjtLE+wB0q85ogXQ=
+		yE3ubgyJRS/SknrNB8ykRXuThy8=
 		</data>
 		<key>Modules/FoemDisno.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/FoemDisno.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7FMBg+7dfsVdWxYILgb3XR3qm+I=
+		lQxd+i3CVXy0H8/zXhkwevVj7U8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,11 +35,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Uqv9fiM6I3kjtLE+wB0q85ogXQ=
+			yE3ubgyJRS/SknrNB8ykRXuThy8=
 			</data>
 			<key>hash2</key>
 			<data>
-			paegLJPYynaFDZUrOg+y+cAPwVCLJbNI2u7l88vKMV0=
+			vOXSqERZc27u3BKFWMjw3hUk3tYam3OvyT5xs5baopM=
 			</data>
 		</dict>
 		<key>Modules/FoemDisno.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -79,11 +79,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7FMBg+7dfsVdWxYILgb3XR3qm+I=
+			lQxd+i3CVXy0H8/zXhkwevVj7U8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gcyv40O41M+6MLZnh27qLGuv9Fc7fmTWQpIAV2Nn0pI=
+			cAHKgLMLkCXPvwaa++IEtVnqWhbe4hi3bGHCssFlgv4=
 			</data>
 		</dict>
 	</dict>
